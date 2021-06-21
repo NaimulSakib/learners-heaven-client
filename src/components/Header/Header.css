@@ -1,0 +1,16 @@
+.heavenNav {
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.heaven {
+  color: #a84de9;
+}
+
+.books-nav-link {
+  font-weight: 500;
+}
+.books-hover:hover a {
+  background: #e5d8ee;
+  border-radius: 5px;
+}

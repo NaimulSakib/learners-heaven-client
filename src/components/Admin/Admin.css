@@ -1,0 +1,7 @@
+.sideBarBtn {
+  color: white;
+}
+
+.sideBarBtn:hover {
+  color: lightgray;
+}
