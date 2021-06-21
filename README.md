@@ -26,7 +26,7 @@
 
 [Server Site Git Repo] https://github.com/Porgramming-Hero-web-course/full-stack-server-NaimulSakib
 
-[Client Site Git Repo]
+[Client Site Git Repo] https://github.com/Porgramming-Hero-web-course/full-stack-client-NaimulSakib
 
 [Live Site] https://learners-heaven-app.web.app/
 
