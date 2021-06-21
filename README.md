@@ -18,7 +18,7 @@
 - Admin / Dashboard Page
   - To access the admin panel, users have to log in
   - Total orders list collection
-  - Unlimited add, delete and update manage inventroy
+  - Unlimited add, delete and update manage inventory
 
 ## Project Link
 
